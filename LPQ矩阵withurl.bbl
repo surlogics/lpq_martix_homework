@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{brahnam2014local}
+Sheryl Brahnam, Lakhmi~C Jain, Loris Nanni, and Alessandra Lumini.
+\newblock {\em Local binary patterns: new variants and applications}, volume
+  506.
+\newblock Springer, 2014.
+
+\bibitem{heikkila2014local}
+Janne Heikkil{\"a}, Esa Rahtu, and Ville Ojansivu.
+\newblock Local phase quantization for blur insensitive texture description.
+\newblock In {\em Local Binary Patterns: New Variants and Applications}, pages
+  49--84. Springer, 2014.
+
+\bibitem{ojansivu2008blur}
+Ville Ojansivu and Janne Heikkil{\"a}.
+\newblock Blur insensitive texture classification using local phase
+  quantization.
+\newblock In {\em Image and signal processing}, pages 236--243. Springer, 2008.
+
+\end{thebibliography}
